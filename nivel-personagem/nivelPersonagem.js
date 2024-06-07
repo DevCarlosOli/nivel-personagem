@@ -64,6 +64,3 @@ if (valorNivel < 0) {
 } else {
     console.log("Você digitou 0, o programa se encerrou. Obrigado!");
 }
-
-
-
